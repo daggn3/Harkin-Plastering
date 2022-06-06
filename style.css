@@ -16,9 +16,6 @@ section {
 	padding-bottom: var(--jumbotron-padding-y);
 	margin-bottom: 0;
 	background-color: #fff;
-	 background-image: url(../Harkin-Plastering/new.jpg);
-  	background-size: contain;
-	  background-repeat: no-repeat;
   }
   @media (min-width: 768px) {
 	.jumbotron {
